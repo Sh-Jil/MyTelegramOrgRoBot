@@ -24,7 +24,7 @@ __For any other bots, ask the respective bot developers, for the source code, be
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-[https://console.platform.sh/projects/create-project?template=https://github.com/Sh-Jil/MyTelegramOrgRoBot]
+[![Deploy](https://platform.sh/images/deploy/lg-blue.svg)](https://console.platform.sh/projects/create-project?template=https://github.com/Sh-Jil/MyTelegramOrgRoBot)
 #### The Legacy Way
 
 - clone the repository, locally.
