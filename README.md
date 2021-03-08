@@ -44,7 +44,7 @@ virtualenv venv -p python
 
 - activate the virtual environment.
 ```sh
-venv\scripts\activate
+venv/scripts/activate
 ```
 
 - install the requirements.
