@@ -39,12 +39,12 @@ cd MyTelegramOrgRoBot
 
 - create a virtual environment.
 ```sh
-virtualenv -p /usr/bin/python3 venv
+virtualenv venv -p python
 ```
 
 - activate the virtual environment.
 ```sh
-. ./venv/bin/activate
+venv\scripts\activate
 ```
 
 - install the requirements.
