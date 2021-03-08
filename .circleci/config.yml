@@ -14,7 +14,7 @@ jobs:
       - run:
           command: pip install -r requirements.txt
           name: Test
-          command: python3 main.py
+          command: python3 bot.py
 
 
 workflows:
