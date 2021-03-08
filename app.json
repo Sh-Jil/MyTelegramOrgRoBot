@@ -8,9 +8,9 @@
     "scrapper",
     "3"
   ],
-  "repository": "https://github.com/SpEcHiDe/MyTelegramOrgRoBot",
-  "success_url": "https://telegram.dog/SpEcHlDe",
-  "website": "https://github.com/SpEcHiDe/MyTelegramOrgRoBot",
+  "repository": "https://github.com/Sh-Jil/MyTelegramOrgRoBot",
+  "success_url": "https://telegram.dog/Shijilraj",
+  "website": "https://github.com/Sh-Jil/MyTelegramOrgRoBot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -18,6 +18,7 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string."
+      "value": "1615421798:AAGTPS678H1Xa_u9M-LObOdTO3nmBurI1co"
     },
     "URL": {
       "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
